@@ -1,2 +1,3 @@
-# LearnGitbook
-ACEKWA.github.io/LearnGitbook
+# LearnGitBook
+
+[have a good reading](https://acekwa.github.io/LearnGitBook/)
